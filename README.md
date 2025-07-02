@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ming Kang 🫡</h1>
+<h1 align="center">Hi, I'm Yap Ming Kang 🫡</h1>
 <h3 align="center">Potato from Malaysia</h3>
 
 <pre>
@@ -11,7 +11,7 @@
 </pre>
 - 🔭 I’m currently working on **Front-End Development**
 
-- 👨‍💻 All of my projects are available at [https://mkmkdope.github.io/portfolio_1/](https://mkmkdope.github.io/portfolio_1/)
+- 👨‍💻 All of my projects are available at [https://mkmkdope.github.io/portfolio/](https://mkmkdope.github.io/portfolio/)
 
 - ⚡ Fun fact **I think I am Cooked.**
 
